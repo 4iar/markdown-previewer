@@ -23,7 +23,7 @@ const defaultTextAreaPlaceholder = '' +
   '3. pears\n' +
   'The rain---not the reign---in\n' +
   'Spain.\n' +
-  ' *[Herman Fassett](https://freecodecamp.com/hermanfassett)*\n'
+  ' *[Herman Fassett](https://freecodecamp.com/hermanfassett)*\n';
 
 
 
